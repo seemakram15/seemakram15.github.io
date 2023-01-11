@@ -19,7 +19,7 @@ html {
 body {
   overflow-x: hidden;
   width: 100%;
-  font-family: var(--font-family-main);
+  font-family: math;
   font-size: 18px;
   line-height: 1.6;
   letter-spacing: 0;
@@ -104,7 +104,7 @@ h5,
 h6 {
   font-weight: 600;
   line-height: 1.3;
-  font-family: var(--font-family-extra);
+  font-family: math;
   color: #000
 }
 
@@ -354,7 +354,7 @@ h6 {
   color: #000;
   display: inline-block;
   padding: 0;
-  font-family: jost, sans-serif;
+  font-family: math;
   font-weight: 500
 }
 
@@ -450,7 +450,7 @@ h6 {
 
 .devman_tm_header .menu ul li a {
   color: #fff;
-  font-family: var(--font-family-extra);
+  font-family: math;
   display: block;
   font-weight: 600;
   -webkit-transition: all .3s ease;
@@ -602,7 +602,7 @@ h6 {
   padding: 14px 40px 17px;
   font-size: 18px;
   font-weight: 600;
-  font-family: var(--font-family-extra);
+  font-family: math;
   -webkit-transition: all .3s ease;
   -moz-transition: all .3s ease;
   -ms-transition: all .3s ease;
@@ -623,7 +623,7 @@ h6 {
   display: inline-block;
   font-size: 18px;
   font-weight: 600;
-  font-family: var(--font-family-extra);
+  font-family: math;
   position: relative;
   top: -2px
 }
@@ -726,7 +726,7 @@ h6 {
   font-size: 19px;
   color: #000;
   font-weight: 700;
-  font-family: var(--font-family-extra);
+  font-family: math;
   line-height: 1.3;
   padding-left: 14px;
   position: relative;
@@ -889,7 +889,7 @@ h6 {
   color: var(--main-color);
   font-size: 16px;
   font-weight: 600;
-  font-family: var(--font-family-extra);
+  font-family: math;
   margin-bottom: 5px
 }
 
@@ -1067,7 +1067,7 @@ h6 {
 .devman_tm_about .right .title span {
   font-size: 24px;
   color: var(--main-color);
-  font-family: var(--font-family-extra);
+  font-family: math;
   font-weight: 600
 }
 
@@ -1127,7 +1127,7 @@ h6 {
 }
 
 .devman_tm_counter_section .counter_list .value span {
-  font-family: var(--font-family-extra);
+  font-family: math;
   font-size: 72px;
   color: var(--main-color);
   font-weight: 600;
@@ -1210,7 +1210,7 @@ h6 {
 .devman_tm_main_title span {
   font-size: 24px;
   color: var(--main-color);
-  font-family: var(--font-family-extra);
+  font-family: math;
   font-weight: 600
 }
 
@@ -1310,7 +1310,7 @@ h6 {
 
 .devman_tm_portfolio ul li .category a {
   color: var(--main-color);
-  font-family: var(--font-family-extra);
+  font-family: math;
   font-size: 18px;
   font-weight: 600;
   display: inline-block
@@ -1334,7 +1334,7 @@ h6 {
 .devman_tm_portfolio ul li .view_project a {
   text-decoration: none;
   color: #fff;
-  font-family: var(--font-family-extra);
+  font-family: math;
   font-weight: 600;
   font-size: 16px;
   text-transform: uppercase;
@@ -1441,7 +1441,7 @@ h6 {
 .devman_tm_modalbox .portfolio_main_title span {
   display: inline-block;
   font-size: 16px;
-  font-family: jost, sans-serif
+  font-family: math
 }
 
 .devman_tm_modalbox .portfolio_main_title span a {
@@ -1500,12 +1500,12 @@ h6 {
   font-size: 18px;
   display: block;
   color: #000;
-  font-family: jost, sans-serif
+  font-family: math
 }
 
 .devman_tm_modalbox .main_details .detailbox span {
   font-size: 16px;
-  font-family: jost, sans-serif
+  font-family: math
 }
 
 .devman_tm_modalbox .main_details .detailbox span a {
@@ -1622,7 +1622,7 @@ h6 {
   color: #000;
   font-size: 18px;
   font-weight: 600;
-  font-family: var(--font-family-extra);
+  font-family: math;
   -webkit-transition: all .5s ease;
   -moz-transition: all .5s ease;
   -ms-transition: all .5s ease;
@@ -1644,7 +1644,7 @@ h6 {
   color: var(--main-color);
   font-weight: 600;
   font-size: 18px;
-  font-family: var(--font-family-extra)
+  font-family: math
 }
 
 .progress_inner .background {
@@ -2000,7 +2000,7 @@ h6 {
   font-weight: 500;
   font-size: 21px;
   color: #000;
-  font-family: jost, sans-serif
+  font-family: math
 }
 
 .devman_tm_modalbox .service_popup_informations .main_title span span {
@@ -2072,7 +2072,7 @@ h6 {
   padding: 0;
   font-size: 24px;
   font-weight: 600;
-  font-family: var(--font-family-extra)
+  font-family: math
 }
 
 .devman_tm_accordion .accordion_in {
@@ -2688,7 +2688,7 @@ h6 {
 }
 
 .devman_tm_news .details .category a {
-  font-family: var(--font-family-extra);
+  font-family: math;
   color: var(--main-color);
   font-size: 16px;
   font-weight: 600;
@@ -2761,7 +2761,7 @@ h6 {
 .devman_tm_modalbox .news_popup_informations .details span a {
   text-decoration: none;
   color: #6f6b80;
-  font-family: jost, sans-serif;
+  font-family: math;
   font-size: 16px
 }
 
@@ -3066,7 +3066,7 @@ h6 {
 .devman_tm_intro_fixed_price .anim {
   text-decoration: none;
   color: #fff;
-  font-family: var(--font-family-extra);
+  font-family: math;
   background-color: #e54b4b;
   position: fixed;
   font-size: 22px;
@@ -3997,4 +3997,44 @@ h6 {
   .devman_tm_modalbox .description_wrap:after {
     height: 20px
   }
+}
+
+.home-area .home-headline {
+  color: #fff;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: .3px;
+  margin-bottom: 0
+}
+
+.home-area .home-headline .single-headline {
+  display: inline-block;
+  position: relative;
+  text-align: left;
+  vertical-align: top
+}
+
+.home-area .home-headline .single-headline::after {
+  background-color: #b9b9b9;
+  content: '';
+  height: 100%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 2px
+}
+
+.home-area .home-headline .single-headline b {
+  display: inline-block;
+  font-weight: 400;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  white-space: nowrap
+}
+
+.home-area .home-headline .single-headline b.is-visible {
+  opacity: 1;
+  position: relative
 }
