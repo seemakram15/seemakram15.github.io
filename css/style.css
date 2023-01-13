@@ -1304,11 +1304,11 @@ h6 {
 }
 
 .devman_tm_portfolio ul li .details {
-  float: left
+  float: right
 }
 
 .devman_tm_portfolio ul li:nth-child(2n) .details {
-  float: right
+  float: left
 }
 
 .devman_tm_portfolio ul li .category {
