@@ -1302,6 +1302,9 @@ h6 {
   z-index: 2;
   padding: 150px 95px
 }
+.hide{
+  display: none;
+}
 
 .devman_tm_portfolio ul li .details {
   float: right
