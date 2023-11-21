@@ -791,7 +791,7 @@ h6 {
 .devman_tm_hero .right .image .main {
   position: absolute;
   top: 7px;
-  bottom: 0;
+  bottom: 4px;
   left: 0;
   right: 0;
   background-repeat: no-repeat;
